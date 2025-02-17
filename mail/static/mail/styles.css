@@ -1,0 +1,44 @@
+textarea {
+    min-height: 400px;
+}
+
+#to {
+    margin: 10px;
+    float: left;
+    display: inline;
+}
+
+#time {
+    margin: 10px;
+    float: right;
+    color: gray;
+    display: inline;
+}
+
+#subject {
+    position: absolute;
+    float: left;
+    margin-top: 40px;
+    margin-left: 70px;
+}
+
+#email-title {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+}
+
+#email-body {
+    margin: 30px;
+}
+
+#archive-email {
+    margin-top: 30px;
+    float: right;
+}
+
+#take-email {
+    margin-top: 30px;
+    float: right;
+}
